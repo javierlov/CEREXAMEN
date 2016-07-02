@@ -1,0 +1,1 @@
+O:7:"Persona":3:{s:6:"nombre";s:4:"Juan";s:8:"apellido";s:5:"Perez";s:14:"nombrecompleto";s:10:"Juan Perez";}
